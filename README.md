@@ -6,15 +6,15 @@
     
 1. Overall snATAC-seq analysis pipeline
 2. Basic scATAC-seq workflow
-    * Main workflow steps
-    * Data preprocessing
+    * [Main workflow steps](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/02.basic_workflow.pdf)
+    * [Data preprocessing](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/02.basic_processing.ipynb)
 
-3.  Combining samples and Quality Control
+3.  [Combining samples and Quality Control](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/03.combining_samples_QC.ipynb)
     * Merging multiple samples
     * Data quality control
     * Doublet detection
 
-4. Normalization, Dimension reduction and Batch correction
+4. [Normalization, Dimension reduction and Batch correction](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/04.Normlization_DimensionReudction_BatchCorrection.ipynb)
     * Normalization
     * Dimension reduction
     * Batch correction
