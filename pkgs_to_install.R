@@ -38,3 +38,43 @@ if (!requireNamespace("aggregation", quietly = TRUE)) {
 if (!requireNamespace("biovizBase", quietly = TRUE)) {
     BiocManager::install('biovizBase')
 }   
+
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+    install.packages("dplyr")
+}
+
+if (!requireNamespace("patchwork", quietly = TRUE)) {
+    install.packages("patchwork")
+}
+
+if (!requireNamespace("BSgenome.Hsapiens.UCSC.hg38", quietly = TRUE)) {
+    BiocManager::install("BSgenome.Hsapiens.UCSC.hg38")
+}
+
+if (!requireNamespace("ggforce", quietly = TRUE)) {
+    install.packages('ggforce')
+}
+
+if (!requireNamespace("ggnewscale", quietly = TRUE)) {
+    install.packages("ggnewscale")
+}
+
+if (!requireNamespace("viridisLite", quietly = TRUE)) {
+    install.packages("viridisLite")
+}
+
+if (!requireNamespace("clusterProfiler", quietly = TRUE)) {
+    BiocManager::install("clusterProfiler")
+}
+
+if (!requireNamespace("org.Hs.eg.db", quietly = TRUE)) {
+    BiocManager::install("org.Hs.eg.db")
+}
+
+if (!requireNamespace("enrichplot", quietly = TRUE)) {
+    BiocManager::install("enrichplot")
+}
+
+# (optional, highly recommended) install presto for an extremely fast implementation of Wilcoxon test 
+# install.packages("devtools")
+# devtools::install_github("immunogenomics/presto")
