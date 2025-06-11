@@ -23,17 +23,17 @@
 ##
 ### Day 2: June 16th 2025
     
-5. snRNA and snATAC joint analysis and clustering
+5. [snRNA and snATAC joint analysis and clustering](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day2/05.snRNA_and_snATAC_Joint_Analysis.ipynb)
     * Joint analysis of snRNA and snATAC modalities
     * Validation of joint clustering
     * Compare to single-modality clustering
 
-6. Gene-enhancer linking analysis
+6. [Gene-enhancer linking analysis](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day2/06.Gene_Enhancer_Mapping.ipynb)
     * Why are gene-enhancer links useful?
     * Methods to link enhancers to target genes
     * Validation of gene-enhancer links
 
-7. Differential chromatin accessibility analysis
+7. [Differential chromatin accessibility analysis](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day2/07.Differentially_Accessibility_Analysis.ipynb)
     * What are DARs?
     * Methods to find cell type-specific DARs
     * Validation of peaks from DAR analysis
