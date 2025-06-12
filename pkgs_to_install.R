@@ -75,6 +75,14 @@ if (!requireNamespace("enrichplot", quietly = TRUE)) {
     BiocManager::install("enrichplot")
 }
 
-# (optional, highly recommended) install presto for an extremely fast implementation of Wilcoxon test 
+## (optional, highly recommended) install presto for an extremely fast implementation of Wilcoxon test 
+
 # install.packages("devtools")
 # devtools::install_github("immunogenomics/presto")
+
+
+## run below lines if you want to process RNA-seq data (notebook 4-5)
+
+# BiocManager::install("scDblFinder")
+# install.packages("sctransform")
+# install.packages("harmony")
