@@ -38,7 +38,7 @@
     * Methods to find cell type-specific DARs
     * Validation of peaks from DAR analysis
 
-8. Motif enrichment analysis
+8. [Motif enrichment analysis](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day2/08.motif_enrichment_analysis.ipynb)
     * What are motifs?
     * Significance of motifs
     * Representing motifs
