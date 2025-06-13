@@ -4,7 +4,7 @@
 
 ### Day 1:June 9th 2025
     
-1. Overall snATAC-seq analysis pipeline
+1. [scATAC-seq and scMultiome Analysis Overview](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/01.scATACseq_and_scMultiome_overview.pdf)
 2. Basic scATAC-seq workflow
     * [Main workflow steps](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/02.basic_workflow.pdf)
     * [Data preprocessing](https://github.com/dongwonlee-lab/workshop_CDN_2025/blob/main/Day1/02.basic_processing.ipynb)
